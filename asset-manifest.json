@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FoodRecipe-App-using-React/static/css/main.f4d7413a.css",
+    "main.js": "/FoodRecipe-App-using-React/static/js/main.71887dfe.js",
+    "index.html": "/FoodRecipe-App-using-React/index.html",
+    "main.f4d7413a.css.map": "/FoodRecipe-App-using-React/static/css/main.f4d7413a.css.map",
+    "main.71887dfe.js.map": "/FoodRecipe-App-using-React/static/js/main.71887dfe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4d7413a.css",
+    "static/js/main.71887dfe.js"
+  ]
+}
